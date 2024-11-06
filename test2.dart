@@ -7,7 +7,7 @@ class Test2 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('test2'),
+        title: Text('test2, copy of master branch'),
       ),
     );
   }
